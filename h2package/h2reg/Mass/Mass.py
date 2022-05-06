@@ -22,7 +22,7 @@ def pixelarea(distance, pixel_width_arcsec):
     -----------------
     
     pixel_area: float
-        pixel area in cm^2
+        pixel area in cm^2 (because column density will be calculated per cm^2)
     '''
     
     #Convert units to cm and degrees
